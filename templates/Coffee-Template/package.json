@@ -4,7 +4,8 @@
   "description": "",
   "scripts": {
     "start": "node dist/server.js",
-    "coffee": "coffee --compile --transpile --inline-map --no-header --output dist --watch coffee"
+    "coffeeWatch": "coffee --compile --transpile --inline-map --no-header --output dist --watch coffee",
+    "coffe": "coffee --compile --transpile --inline-map --no-header --output dist coffee"
   },
   "author": "Milad",
   "license": "Apache-2.0",

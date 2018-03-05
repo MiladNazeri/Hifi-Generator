@@ -1,0 +1,15 @@
+{
+  "name": "Coffee-Temp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./Js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "generate": "./index.js"  
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
